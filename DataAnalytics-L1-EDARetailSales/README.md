@@ -67,6 +67,12 @@ The following analysis was performed in the project:
 3. **Optimize Inventory for High-Demand Products**  
    Products with high order quantities, such as Water Bottle - 30 oz. and Patch Kit/8 Patches, should be considered for inventory planning, bundles, and promotional campaigns.
 
+## Conclusion
+
+The analysis provides useful insights into sales trends, customer demographics, product demand, category performance, and profitability.
+
+Bikes are the strongest category in terms of total revenue and profit, while Accessories have the highest profit margin. The findings can support inventory planning, cross-selling, product promotion, and profitability-focused business decisions.
+
 ## Project Structure
 
 ```text
@@ -80,10 +86,4 @@ Retail-Sales-EDA/
 │   └── Retail_Sales_EDA.ipynb
 │
 └── README.md
-```
 
-## Conclusion
-
-The analysis provides useful insights into sales trends, customer demographics, product demand, category performance, and profitability.
-
-Bikes are the strongest category in terms of total revenue and profit, while Accessories have the highest profit margin. The findings can support inventory planning, cross-selling, product promotion, and profitability-focused business decisions.
