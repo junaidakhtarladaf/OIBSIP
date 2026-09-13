@@ -76,7 +76,7 @@ Bikes are the strongest category in terms of total revenue and profit, while Acc
 ## Project Structure
 
 ```text
-Retail-Sales-EDA/
+DataAnalytics-L1-EDARetailSales/
 │
 ├── Data/
 │   └── Raw/
